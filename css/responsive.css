@@ -1,0 +1,38 @@
+@media screen    and (max-width: 850px){
+    p.py-2.logo-title {
+    font-size: 20px;
+}
+   
+    
+    
+}
+@media screen    and (max-width: 720px){
+    p.py-2.logo-title {
+    font-size: 16px;
+}
+   
+    
+    
+}
+@media screen    and (max-width: 751px){
+   .slider-titie {
+    font-size: 35px;
+}
+    .slide-pera{
+        font-size: 20px;
+    }
+   
+    
+    
+}
+@media screen    and (max-width: 526px){
+   .slider-titie {
+    font-size: 25px;
+}
+   
+     .slide-pera{
+        font-size: 16px;
+    }
+   
+    
+}
